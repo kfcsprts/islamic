@@ -23,6 +23,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="", AL Sunnah TV http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
+
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMsHwdNctyJQ_04j6u4PVg-JthwyhLTWVoQ&usqp=CAU",Deen tv Bangla https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
 
@@ -42,13 +43,13 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Relagion Channel", AL Sunnah TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="", AL Sunnah TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="English News" group-title="",Aljazeera
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="" group-title="",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="", Aljazeera HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
